@@ -4,7 +4,7 @@ This folder contains the Spotify dataset used for the Spotify Power BI Dashboard
 
 ## Contents
 
-- **spotify.csv** – Contains Spotify song data used for analysis and dashboard creation.
+- **spotify-top-50-world.csv** – Contains Spotify song data used for analysis and dashboard creation.
 
 ## Notes
 
